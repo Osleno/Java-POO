@@ -1,10 +1,29 @@
-## Estrutura de pastas 
-O espaço de trabalho contém duas pastas por padrão, onde 
-src: a pasta para manter as fontes
-lib: a pasta para manter as dependências
-Enquanto isso, os arquivos de saída compilados serão gerados na pasta por padrão.bin
+# Projeto Concessionária 🚗
 
-Se você deseja personalizar a estrutura de pastas, abra e atualize as configurações relacionadas..vscode/settings.json
+Este é um projeto de estudo em Java desenvolvido como atividade acadêmica para a disciplina de Programação Orientada a Objetos (POO). O sistema simula o funcionamento de uma concessionária, com cadastro de carros, clientes, vendedores e vendas.
 
-## Gerenciamento de dependências
-A visualização permite que você gerencie suas dependências. Mais detalhes podem ser encontrados aqui.JAVA PROJECTS
+## 🧠 Objetivo
+
+Aplicar conceitos de POO como:
+- Encapsulamento
+- Composição de objetos
+- Criação de classes bem definidas
+- Interação entre entidades
+
+## 📦 Estrutura do Projeto
+
+As principais classes do sistema estão na pasta `src/ProjetoConcessionaria`:
+
+- `Carro`: representa os veículos disponíveis.
+- `Cliente`: armazena informações de quem compra os veículos.
+- `Vendedor`: armazena dados dos vendedores da loja.
+- `Venda`: registra os dados das transações de venda.
+- `Relatorio`: gera relatórios com base nos dados cadastrados.
+- `Principal`: classe responsável por iniciar a aplicação e gerenciar o menu principal.
+
+## 🚀 Como executar
+
+1. Clone o repositório:
+
+```bash
+git clone https://github.com/Osleno/Java-POO.git
