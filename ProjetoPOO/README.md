@@ -27,3 +27,12 @@ As principais classes do sistema estão na pasta `src/ProjetoConcessionaria`:
 
 ```bash
 git clone https://github.com/Osleno/Java-POO.git
+Navegue até a pasta do projeto:
+
+bash
+Copiar
+Editar
+cd Java-POO/ProjetoPOO
+Abra o projeto em uma IDE Java (como IntelliJ ou Eclipse) e execute a classe Principal.java, localizada em src/ProjetoConcessionaria.
+
+O menu interativo será exibido no console.
